@@ -23,7 +23,7 @@ A clear and concise description of what the company's background is and the pote
 9. What they do:
 
 **Desired Audience present**
-Please list the members of the executive team you would like in attendance please be sure to list 2-4 in case desired members cannot attend.
+Please list the members of the executive team you would like in attendance please be sure to list 2-4 in case desired members cannot attend or have other executive functions to tend to.
 
 **Objectives**
 Please explain desired outcome of the EBC.
